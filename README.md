@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
 
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
@@ -32,3 +33,8 @@ To finish the procedure, make a pull request in this GitHub repository that adds
 
 ### Thanks
 ... to **[Cloudflare](https://www.cloudflare.com)** for their superb DNS service that makes this possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
+=======
+![JS.ORG Logo](http://logo.js.org/png/github_header.png)
+
+Have a look at [JS.ORG](https://js.org) [(branch: master)](https://github.com/js-org/js.org/tree/master)
+>>>>>>> 00b7172ff5998cbaa6962dc6904961655a987ab2
